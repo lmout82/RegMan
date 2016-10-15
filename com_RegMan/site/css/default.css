@@ -1,0 +1,23 @@
+#hor-zebra
+{
+	margin: 45px;
+	text-align: left;
+	border-collapse: collapse;
+}
+
+#hor-zebra th
+{
+	padding: 10px 8px;
+	color: #039;
+}
+
+#hor-zebra td
+{
+	padding: 8px;
+	color: #669;
+}
+
+#hor-zebra .odd
+{
+	background: #e8edff; 
+}
